@@ -1,4 +1,4 @@
-# sissejuhatus
+# praktikumi kirjeldus
 Praktikumi eesmärk oli teha sissejuhatus töökeskkonda ning ühtlustada linuxi käsurea kasutamise oskusi. 
 Praktikumi jooksul tuli importida virtualboxi andmekandjalt saadud virtuaalmasin ning sinna paroolita sisse saada. 
 Seejärel tuli täita erinevaid käske käsureal ning teha ka asjakohane test.
