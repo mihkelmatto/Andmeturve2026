@@ -1,3 +1,4 @@
+# Lühikirjeldus
 Praktikumi ülesandeks oli erinevate sertifikaatide loomine, seadistamine ja kasutamine Apache veebiserveri ja SSL kaudu. Seejärel tuli läbi viia seansikaaperdusrünne courses ja ois2 lehtede vastu.
 
 # Pildid praktikumiülesannetest
