@@ -3,7 +3,7 @@ Praktikumi ülesandeks oli windowsi rünnete testimine ja turvaseadistuste halda
 
 # Pildid praktikumiülesannetest
 
-## Windowsi arvtisse paroolita sisselogimine
+## Windowsi arvutisse paroolita sisselogimine
 <img width="1918" height="1198" alt="1" src="https://github.com/user-attachments/assets/678c5096-0c07-4772-b306-2ea268f9d63b" />
 
 ## Keylogger
