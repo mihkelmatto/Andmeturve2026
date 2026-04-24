@@ -1,3 +1,5 @@
+Praktikumi eesmärk oli tutvuda ID-kaardi ja muude isikutuvastuse tehnoloogiatega. Käsitleti nii füüsilist ID-kaarti, ID-kaardi lugejaid, Mobiili-ID'd kui Smarti-ID'd. Samuti käsitleti Digidoc ID-kaardi tarkvara: kuidas sellega faile krüpteerida, digiallkirjastada ning kuidas on talletatud sertifikaadid. Samuti oli palju lugemismaterjale e-hääletamise korralduse ja tööpõhimõtete kohta.
+
 ## failide krüpteerimine Digidoc tarkvaraga
 <img width="1918" height="1197" alt="praks9-2" src="https://github.com/user-attachments/assets/75b0c25d-b782-48b4-8f84-1fc300674345" />
 
