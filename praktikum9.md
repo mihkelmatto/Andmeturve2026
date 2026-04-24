@@ -19,7 +19,7 @@ Samuti lisab turvalisust asjaolu, et häälte lugemise server pole internetiga �
 Valimisrakendus kasutab krüpteerimiseks ka juhuarvu. See juhuarv skäneeritakse QR-koodi abil nutiseadmesse. Valimisserver saadab nutiseadmele siseise ümbriku ja valimisnimekirja. Nüüd proovib nutiseade iga valimisnimekirjas olevat isikut antud juhuarvuga krüpteerida ning peale iga krüpteerimist kontrollib, kas tulemus on identne antud ümbrikuga. Kui tulemus on identne, siis tegemist ongi antud häälega.
 ---
 
-3. 2025 aasta KOV valimised on esimesed, kus hääletamiseks saab kasutada lisaks ID-kaartile ja Mobiili ID-le ka Smart-ID tarkvara isiku tuvastamiseks ja hääle valiku kinnitamiseks. Millised muudatused seadusandluses ja Smart-ID turvalisuses võimaldavad nüüd ka Smart-ID abil e-hääletada? Vastakse võimalikult konkreetselt ja tehniliselt. **
+3. 2025 aasta KOV valimised on esimesed, kus hääletamiseks saab kasutada lisaks ID-kaartile ja Mobiili ID-le ka Smart-ID tarkvara isiku tuvastamiseks ja hääle valiku kinnitamiseks. Millised muudatused seadusandluses ja Smart-ID turvalisuses võimaldavad nüüd ka Smart-ID abil e-hääletada? Vastakse võimalikult konkreetselt ja tehniliselt.
 Vastavaid seadusi muudeti üldsõnalisemaks nii, et sobib ID-kaardiga "samaväärne" e-identimise süsteemi vahend. See ei maini täpselt, mis tehnoloogiaga on tegemist, vaid on nimetatud, mis standarditele vahend vastama peab. Smart-ID on nüüd lubatud, sest see vastab standarditele ning seda loetakse ID-kaardiga samaväärseks.
 
 Smart-ID tagab turvalisuse järgmiselt:
