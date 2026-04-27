@@ -28,4 +28,12 @@ Viimaseks ülesandeks oli vaadata läbi videomaterjal kahjurvara kohta ning teha
 
 ## Märkusi õppevideotest
 
+1. Ühe asjana jäi meelde, kuidas esitaja näitas rünnakute kogust: viimase 24h jooksul oli ära hoitud umbes 30 tuhat rünnakut. Samuti räägiti, et küberkurjategijaid on väga keeruline vastutusele võtta, sest tõendeid on vähe ning nad toimetavad mitme riigi inforuumis
 
+2. Siin videos tutvustati rünnakut, mis oli disainitud just väga täpse sihtmärgi suunas. Sihtmärgiks olid Iraani tuumarajatised ning ründajal oli väga detailne info rajatise arhitektuuri ja tööpõhimõtete kohta. Programm oli mõeldud aktiveeruma ainult väga spetsiifilistes tingimustes ning oleks võmeline jaama õhku laskma. See näitas, et pahavara võib olla väga keerukas ning väga täpselt "sihitav".
+
+3. Sellest videost jäi meelde, et iga seadet on võimalik häkkida ning rünnakud võivad olla väga loovad. Ohtlikumatest näidetest häkiti südamerütmi seadmesse võimekusega see välja lülitada, või auto arvutitesse, et näiteks pidurid halvata või segada muid süsteeme. Kõige huvitavamaks näiteks oli aga eksperiment, kus suudeti telefoni kiirendusmõõturi (accelerometer) abil lindistada klaviatuuril kirjutamist ning seejärel kasutada masinõppe peal töötavat programmi, mis suutis üsna täpselt tuvastada, mida päriselt kirjutatud oli.
+
+4. Siin räägiti peamiselt, et häkkerid on väga erineva taustaga ning tihti on inimesed lihtsalt juhuslikult sattunud keskkonda, mis suunasid neid halvale teele. Pakuti välja, et selliseid inimesi tuleks lihtsalt õigele teele juhtida ning kasutada nende ekspertiisi küberturvalisuse alal
+
+5. siin räägiti, et internetikeskkondade kasutustingimused on ebamõistlikud ning ettevõtetel on antud sisuliselt piiramatu kontroll inimeste isikuandmete jm isikliku info üle. Räägiti eksperimendist, kus loeti keskmises telefonis leiduvate rakenduste kasutustingimusi ning sellega läks aega 32h. Eksperimendist järeldati, et kasutustingimuste lugemine pole tavainimese jaoks realistlik ning informeeritud nõusolek pole sisuliselt võimalik. 
