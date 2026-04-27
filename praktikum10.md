@@ -23,7 +23,8 @@ Viimaseks ülesandeks oli vaadata läbi videomaterjal kahjurvara kohta ning teha
 ## 2017 aastal paigaldas õppejõud virtuaalmasinasse Firefoxi veebibrauseri
 <img width="1918" height="1198" alt="praks10-6" src="https://github.com/user-attachments/assets/50ee8248-2c67-4d77-9dcc-29097c80bc36" />
 
-## failide taastamine
+## failide taastamine recuva tarkvara abil
+<img width="1918" height="1198" alt="recuva test" src="https://github.com/user-attachments/assets/c2b2d6dd-b4bf-4b52-8471-460cc762ae72" />
 
 ## Märkusi õppevideotest
 
